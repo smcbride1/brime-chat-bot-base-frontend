@@ -1,0 +1,22 @@
+{
+  "name": "brime-chat-bot-base-backend",
+  "version": "1.0.0",
+  "description": "UNOFFICIAL base source code for backend for any kind of chat bot on Brime.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smcbride1/brime-chat-bot-base-backend.git"
+  },
+  "author": "Stephen McBride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smcbride1/brime-chat-bot-base-backend/issues"
+  },
+  "homepage": "https://github.com/smcbride1/brime-chat-bot-base-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
